@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is for learning npm and node.js",
+  "main": "app.js",
+  "scripts": {
+    "myapp": "nodemon app.js"
+  },
+  "author": "Cara",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
